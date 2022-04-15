@@ -18,12 +18,12 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Test 1
-email: contact@example.gov
+title: Project BEAM
+email: contact@beam.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Project BEAM (PBM) The goal of Project Beam is to effectively analyze and harness the power of the movement of a quibit through quantum entanglement.
+  Effectively producing the effects of quantum teleportation.
+baseurl: "https://federalist-18745d47-ff42-41b2-9480-ec979c50de21.app.cloud.gov/site/ephraim-g/sandbox/blog/" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. https://example.com.
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
@@ -158,7 +158,7 @@ pagination:
   # Optional, defines the field that the posts should be sorted on (omit to default to 'date')
   sort_field: "date"
   # Optional, sorts the posts in reverse order (omit to default decending or sort_reverse: true)
-  sort_reverse: true
+  sort_reverse: false
   # Optional, the default category to use, omit or just leave this as 'posts' to get a backwards-compatible behavior (all posts)
   category: "posts"
   # Optional, the default tag to use, omit to disable
