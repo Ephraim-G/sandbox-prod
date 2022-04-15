@@ -1,18 +1,19 @@
 ---
-title: Document with Sidenav
+title: About Quatum Teleportation
 layout: page
 sidenav: true
 ---
 
-# Section heading (h1)
+# Photons in the process...
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+During teleportation an initial photon which carries the polarization that is to be transffered and one pair of entangled photons are subjected
+to a measurement such that the second photon of the entangled pair acquires the polarization of the initial photon.
 
-We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
+This is the title variable: **{{page.title}}**
 
-## Section heading (h2)
+## Electrons in the process...
 
-These headings introduce, respectively, sections and subsections within your body copy. As you create these headings, follow the same guidelines that you use when writing section headings: Be succinct, descriptive, and precise.
+In quantum entanglement the properties of one particle (the electron) affect the properties of another, even when seperated by a large distance. 
 
 ### Subsection heading (h3)
 
