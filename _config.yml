@@ -65,7 +65,7 @@ twitter: 18F
 # SSA     - Social Security Administration
 #
 #################################################################
-dap:
+dap:DoM
   # agency: your-agency
 
   # Optional
@@ -79,19 +79,19 @@ ga:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
+  - name: Company Mission
     url: /blog/
-  - name: Document
+  - name: Our Work
     url: /document/
-  - name: Document with sidenav
+  - name: Careers
     url: /document-with-sidenav/
-  - name: Document submenu
+  - name: Contact Us
     children:
-      - name: Navigation link
+      - name: Board of Directors
         url: "#main-content"
-      - name: Navigation link
+      - name: Office Locations
         url: "#main-content"
-      - name: Navigation link
+      - name: Staff
         url: "#main-content"
 
 secondary_navigation:
